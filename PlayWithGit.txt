@@ -1,0 +1,7 @@
+Locally 
+
+git init PlayWithGit
+
+set remote 
+
+git remote add origin https://github.com/pavenant/PlayWithGit.git
